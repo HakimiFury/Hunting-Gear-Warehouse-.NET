@@ -48,5 +48,3 @@ Hunting Gear Warehouse is a Windows desktop application for managing hunting-gea
    - A `pictures` folder containing `nophoto.jpg` and the product images
 
 5. Press `F5` in Visual Studio to run the application.
-
-> **Note:** The database and runtime product images are not tracked in this repository. A fresh clone requires these files before the database-backed screens can work. Use only sample or sanitized data if you decide to publish an Access database in this public repository.
