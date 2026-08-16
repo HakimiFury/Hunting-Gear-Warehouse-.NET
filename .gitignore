@@ -361,3 +361,6 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# Screenshots retained locally because they contain personal information or untracked features
+docs/screenshots/private/
